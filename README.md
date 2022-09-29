@@ -30,4 +30,7 @@ değiştirmek istediğinizi tartışmak için bir konu açınız
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+# Link
+[Patika](www.patika.dev)
+
 
